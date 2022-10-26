@@ -22,10 +22,3 @@
 - [ ] Pseudo Code 작성하기
 - [ ] 컴퓨터 하드웨어 공부-> 이건 크게 필요하지 않을 것 같음, 시간 남으면 걍 보기
 
-
-<ul class="ck ck-todolist">
-  <li class="ck-todolist__item">
-    <span class="ck-todolist__item-checkbox">알고리즘</span>
-    <span class="ck-todolist__item-content">시간복잡도</span>
-  </li>
-</ul>
